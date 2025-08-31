@@ -1,4 +1,4 @@
-# Nexora - Virtual Assistant 🤖
+# Nexora - Virtual Assistant
 
 **Nexora** is my beginner-level Virtual Assistant project built with Python.  
 It can perform simple but useful tasks like:  
