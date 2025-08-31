@@ -1,11 +1,11 @@
 # Nexora - Virtual Assistant
 
-**Nexora** is my beginner-level Virtual Assistant project built with Python.  
+**Nexora** is my first Virtual Assistant project built with Python.  
 It can perform simple but useful tasks like:  
 
-- Open YouTube or Google in your browser
+- Open YouTube, Google, etc. In your browser
 - Play music on Youtube
-- Answer your questions using Gemini API (AI-powered) 
+- Answer your questions using Gemini(AI-powered) 
 - Take a screenshot 
 - Add reminders  
 
